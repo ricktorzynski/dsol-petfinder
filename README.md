@@ -3,7 +3,7 @@
 Competition Page<br>
 https://www.kaggle.com/c/petfinder-adoption-prediction
 
-Team Kernel
+Team Kernel<br>
 https://www.kaggle.com/cdhimmel/dsol-et-60
 
 ## Kaggle API Instructions
