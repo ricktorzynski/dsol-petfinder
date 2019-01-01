@@ -1,6 +1,6 @@
 # PetFinder.my Adoption Prediction Kaggle competition
 
-Competition Page
+Competition Page<br>
 https://www.kaggle.com/c/petfinder-adoption-prediction
 
 Team Kernel
