@@ -54,8 +54,9 @@ To https://github.com/ricktorzynski/dsol-petfinder.git
 https://github.com/ricktorzynski/dsol-petfinder/pull/new/dsol-et-60.ipynb
 
 ## After merge request
+https://github.com/Kaggle/kaggle-api
 
-### Check out masterhttps://github.com/Kaggle/kaggle-api
+### Check out master
 $ git checkout master
 
 ### Get current
