@@ -1,10 +1,9 @@
 # PetFinder.my Adoption Prediction Kaggle competition
 
-Competition Page
-
+###Competition Page
 https://www.kaggle.com/c/petfinder-adoption-prediction
 
-Team Kernel<br>
+###Team Kernel
 https://www.kaggle.com/cdhimmel/dsol-et-60
 
 ## Kaggle API Instructions
