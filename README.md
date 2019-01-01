@@ -16,26 +16,26 @@ $ kaggle kernels pull cdhimmel/dsol-et-60 -p /home/rick/Desktop/DSDJ/dsol-petfin
 
 ## Git Commands
 
-To see status
+### To see status
 $ git status
 
-To pull latest 
+### To pull latest 
 $ git pull
 
-Create a new branch
+### Create a new branch
 $ git checkout -b dsol-et-60.ipynb
 
-To add a file for commit
+### To add a file for commit
 $ git add dsol-et-60.ibynb git config --global user.email "ricktorzynski@gmail.com"
 
-To commit a file 
+### To commit a file 
 $ git commit -m "Initial kernel commit at DSOL ET.60 V4"
 
-To Push commit
+### To Push commit
 $ git push origin dsol-et-60.ipynb
 
-IF no conflicts, then will give you information to generate a pull request
-
+### IF no conflicts, then will give you information to generate a pull request
+```
 rick@rick-desktop:~/Desktop/DSDJ/dsol-petfinder$ git push origin dsol-et-60.ipynb
 Counting objects: 6, done.
 Delta compression using up to 8 threads.
@@ -48,22 +48,23 @@ remote:      https://github.com/ricktorzynski/dsol-petfinder/pull/new/dsol-et-60
 remote: 
 To https://github.com/ricktorzynski/dsol-petfinder.git
  * [new branch]      dsol-et-60.ipynb -> dsol-et-60.ipynb
+```
 
-Go to Pull request page:
+## Go to Pull request page:
 https://github.com/ricktorzynski/dsol-petfinder/pull/new/dsol-et-60.ipynb
 
-After merge request
+## After merge request
 
-Check out masterhttps://github.com/Kaggle/kaggle-api
+### Check out masterhttps://github.com/Kaggle/kaggle-api
 $ git checkout master
 
-Get current
+### Get current
 $ git pull
 
-Create New branch to work on
+### Create New branch to work on
 $ git checkout -b dsol-et-60-v5
 
 rinse and repeat....:P
 
 
-
+ 
