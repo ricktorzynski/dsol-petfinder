@@ -8,10 +8,10 @@ https://www.kaggle.com/cdhimmel/dsol-et-60
 
 ## Kaggle API Instructions
 
-Instructions on using Kaggle API (cli)
+### Instructions on using Kaggle API (cli)
 https://github.com/Kaggle/kaggle-api
 
-Using Kaggle API to download kernel
+### Using Kaggle API to download kernel
 $ kaggle kernels pull cdhimmel/dsol-et-60 -p /home/rick/Desktop/DSDJ/dsol-petfinder
 
 ## Git Commands
