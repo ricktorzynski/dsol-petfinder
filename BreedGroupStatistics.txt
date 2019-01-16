@@ -1,0 +1,19 @@
+Breed Group Label	  Breed Group Type	Count   Mean	SD
+Sheepdogs and Cattle Dogs	1	1	  206	2.2573	1.1177
+Pinscher and Schnauzer		2	1	  355	2.2845	1.168
+Terriers			3	1	  338	2.4882	1.083
+Dachshunds			4	1	   28	2.1786	1.1037
+Spitz and Primitive Types	5	1	  196	2.4133	1.1373
+Scenthounds			6	1	  152	2.2829	1.2743
+Pointing Dogs			7	1	   13	2.8462	0.9484
+Retrievers			8	1	  440	2.2636	1.1072
+Companion and Toy Dogs		9	1	  471	2.0106	1.1445
+Sighthounds			10	1	    9	2.8889	1.0999Yea,zoom
+Mixed Breed			11	1	 5927	2.7461	1.1165
+Unclassified Dogs		12	1	    7	2.1429	0.6389
+Group 1 Cats			13	2	  302	2	1.2342
+Group 2 Cats			14	2	  466	2.2124	1.2686
+Group 3 Cats			15	2	  287	2.5052	1.2208
+Companion Cats			16	2	 5793	2.429	1.191
+						14990	2.51	1.1772	
+
